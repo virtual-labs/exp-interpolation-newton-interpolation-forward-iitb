@@ -144,4 +144,4 @@ $$ u = \frac{x-x_4}{h} $$
 
 $$
 y = y_4 + u\nabla_4^1 + \frac{u(u+1)\nabla_4^2}{2!} + \frac{u(u+1)(u+2)\nabla_4^3}{3!} \qquad \qquad ...equ(4)
-$$
+$$<script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"> </script>

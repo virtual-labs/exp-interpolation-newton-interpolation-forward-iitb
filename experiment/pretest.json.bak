@@ -1,0 +1,20 @@
+[
+   {
+      "question": "Newton - Gregory Forward interpolation formula can be used _____________",
+      "qid": 1,
+      "option_a": "only for unequally spaced intervals",
+      "option_b": "only for equally spaced intervals",
+      "option_c": "for both equally and unequally spaced intervals",
+      "option_d": "for unequally intervals",
+      "correct_option": "b"
+   },
+   {
+      "question": "Find the polynomial for the following data. <br> <table><tr><td>x</td> <td>4</td> <td>6</td> <td>8</td> <td>10</td> </tr> <tr> <td>f(x)</td> <td>1</td> <td>3</td> <td>8</td> <td>16</td> </tr> </table>",
+      "qid": 2,
+      "option_a": "<span style='display:inline-block;'>$$ \\frac{3x^2 - 22x + 48}{8} $$</span>",
+      "option_b": "<span style='display:inline-block;'>$$ 3x^2 - 22x + 48 $$</span>",
+      "option_c": "<span style='display:inline-block;'>$$ \\frac{3x^2 + 22x + 48}{2} $$</span>",
+      "option_d": "<span style='display:inline-block;'>$$ \\frac{3x^2 - 19x + 48}{8} $$</span>",
+      "correct_option": "a"
+   }
+]
